@@ -7,7 +7,7 @@ import (
 	"log"
 	"path/filepath"
 
-	"github.com/4396/goose-tinker/lib/goose"
+	"github.com/504807890/goose-tinker/lib/goose"
 )
 
 // global options. available to any subcommands.
