@@ -1,4 +1,4 @@
-module github.com/4396/goose-tinker
+module github.com/504807890/goose-tinker
 
 require (
 	github.com/go-sql-driver/mysql v1.4.1
